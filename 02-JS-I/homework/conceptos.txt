@@ -1,0 +1,29 @@
+- Variables: 
+      Son como un contenedor o recipiente donde puedo almacenar valores, una variable puedo pensar que es una caja,
+      donde almaceno uno o varios datos, esa caja tiene un nombre para poder referirnos a ella mas adelante,
+      recuperar los datos y tambien puedo asignarle un valor a esa caja siempre que quiera.
+
+- Strings: 
+      Es una clase en Javascript que se usa para manipular cadenas de texto, asi que todo lo que este encerrado 
+      entre '' o "" se interpreta como una cadena de texto. 
+
+- Funciones (argumentos, return):
+    - Las funciones son objetos invocables, basicamente es un objeto que yo puedo llamar para que me ejecute algo,
+      eso que quiero que me ejecute esta dentro del bloque de codigo donde defino lo que va a hacer.
+    - Los argumentos son datos(variables) que le paso a una funcion, esas variables las puedo utilizar dentro
+      de la funcion para que realice algo y el valor de esa variable se lo paso en la llamada de la funcion.
+    - El return es para que después de que se ejecute la funcion, poder obtener el resultado o el valor que generó 
+      después de transformar los datos que le pase, es decir que ese valor lo podre utilizar por fuera de la funcion
+      de lo contrario se queda atrapado dentro de la funcion y no lo voy a poder utilizar para imprimirlo o cualquier
+      cosa que quiera hacer con el.
+  
+- Declaraciones if:
+    - Al hacer un programa necesitamos establecer condiciones, donde buscamos que el navegador realice una accion si
+      se cumple una condicion u otra accion si no se cumple. La estructura if se utiliza para tomar decisiones en 
+      funcion de la condicion, si la condicion se cumple osea su valor es true se ejecutan todas las instrucciones 
+      que estan dentro del bloque de codigo if{}, Si la condicion no se cumple es decir su valor es
+      false se ejecutan todas las instrucciones contenidas en else{}
+
+- Valores booleanos (true, false):
+      Las varibles booleanas toman un valor true o false, normalmente se usan para evaluar si se cumplen condiciones 
+      mediante instrucciones if.
